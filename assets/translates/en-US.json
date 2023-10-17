@@ -1,0 +1,51 @@
+{
+    "home" : {
+      "hey" : "hey",
+      "home_subtitle" : "Let's Start Learning",
+      "top_mentors" : "Top Mentors",
+      "most_popular_caurse" : "Most Popular Course",
+      "view_all" : "View all"
+    },
+    "my_course" : {
+      "title" : "My Courses",
+      "ongoing" :"Ongoing",
+      "completed" : "Completed"
+    },
+    "bookmark" : {
+      "title" : "bookmark"
+    },
+    "inbox" : {
+      "title" : "Inbox",
+      "chats" : "Chats",
+      "calls" : "Calls"
+    },
+    "profile" : {
+      "profile_settings" : {
+        "notification" : "Notification",
+        "payment" : "Payment",
+        "security" : "Security",
+        "lagunage" : "Language",
+        "privacy_policy" : "Privacy Policy",
+        "help_center" : "Help Center",
+        "logout" : "Logout"
+      },
+      "notification" : {
+        "general_notification" : "General Notification",
+        "sound" : "Sound",
+        "vibrate" : "Vibrate",
+        "special_offer" : "Special Offer",
+        "promo_and_demo" : "Promo And Demo",
+        "payment" : "Payment",
+        "app_update" : "App Update",
+        "new_service_available" : "New Service Available",
+        "new_tips_available" : "New Tips Available"
+      },
+      "security" : {
+        "remember_me" : "Remenber me",
+        "face_id" : "Face Id",
+        "biometrics_id" : "Biometrics Id",
+        "change_pin" : "Change Pin",
+        "change_password" : "Change Password"
+      }
+    }
+  }
