@@ -1,4 +1,4 @@
-# bwind
+# Bwind
 
 Bwind is online learing app fo students developed in flutter with so many fuctionalities like courses , your course study tracking , payment, chat with mentor etc.
 
